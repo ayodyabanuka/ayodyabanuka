@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm AB</h1>
-<h3 align="center">I'm a Software Engineering Undergraduate student, Programmer, Photographer, Graphic Designer, Singer</h3>
+<h3 align="center">I'm a Associate Software Engineer, Photographer, Graphic Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayodyabanuka&label=Profile%20views&color=0e75b6&style=flat" alt="ayodyabanuka" /> </p>
 

@@ -29,8 +29,6 @@
 <a href="https://medium.com/@ayodyabanukafernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ayodyabanukafernando" height="30" width="40" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>  </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayodyabanuka&show_icons=true&locale=en&layout=compact" alt="ayodyabanuka" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayodyabanuka&show_icons=true&locale=en" alt="ayodyabanuka" /></p>
